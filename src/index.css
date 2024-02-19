@@ -56,3 +56,10 @@ main{
   border: none;
   cursor: pointer;
 }
+
+.meme--image{
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  padding: 10px;
+}
